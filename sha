@@ -1,0 +1,21 @@
+
+VMware vSphere Hypervisor (ESXi ISO) image
+
+2020-06-23 | 7.0b | 351.9 MB | iso
+
+Boot your server with this image in order to install or upgrade to ESXi (ESXi requires 64-bit capable servers). This ESXi image includes VMware Tools.
+
+MD5SUM(¹): 6b74910d911cabcd346028071eb83682
+SHA1SUM(¹): 9eeff60e4257d763f49d9b39e1dbaee4fe22acbd
+SHA256SUM(¹): 7bebfc1bc0794b0964b9ee731860785794fb678d49a1f06d5e62524b805f2b72
+
+
+VMware vSphere Hypervisor (ESXi) Offline Bundle
+
+2020-06-23 | 7.0b | 346 MB | zip
+
+Contains VIB packages and image profiles for ESXi including VMware Tools. Use the image profiles and the VIB packages with VMware Image Builder and VMware Auto Deploy to create custom image/ISO generation for ESXi deployments.
+
+MD5SUM(¹): d40887d357dd7042d75d1460d70396ca
+SHA1SUM(¹): 620bc355af3d23436eedc1ef49a62225a18f862f
+SHA256SUM(¹): d26ce8c036cc2a6c1a49a15c2ecfd471f17df80b4b88e9ed4093671be6b0dec5
